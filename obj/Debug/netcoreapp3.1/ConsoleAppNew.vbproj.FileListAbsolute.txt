@@ -1,0 +1,13 @@
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.exe
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.deps.json
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.runtimeconfig.json
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.runtimeconfig.dev.json
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.dll
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\bin\Debug\netcoreapp3.1\ConsoleAppNew.pdb
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.vbprojAssemblyReference.cache
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.AssemblyInfoInputs.cache
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.AssemblyInfo.vb
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.vbproj.CoreCompileInputs.cache
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.dll
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.pdb
+C:\OurHome\LSS\Personal\Projects_Test\ConsoleAppNew\obj\Debug\netcoreapp3.1\ConsoleAppNew.genruntimeconfig.cache
