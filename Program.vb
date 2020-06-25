@@ -4,6 +4,8 @@ Imports System.Text
 Imports System.IO
 
 'add comment 22jun20
+'add comment 26jun20 for clone from github
+
 Module Program
 
     Function _generateFileName(ByVal sequence As Integer) As String
